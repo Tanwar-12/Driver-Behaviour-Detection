@@ -231,7 +231,7 @@
 ![image](https://github.com/user-attachments/assets/fb934e17-4cbb-4d25-bba7-3d1eff15c2f9)
 ![image](https://github.com/user-attachments/assets/be37b665-b6e9-4016-abf7-6595125b5723)
 
-4.**EXCEPTION**
+4.**XCEPTION**
 
 ![image](https://github.com/user-attachments/assets/a4ccb6e4-9d11-4090-8f08-5f7938b17a4a)
 ![image](https://github.com/user-attachments/assets/41d9648a-e4dd-4234-a05b-8adab0f383cd)
